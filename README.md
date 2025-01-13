@@ -26,3 +26,6 @@ In this Dataset several features they are affect the quality of concrete. So we 
 7) Fine_aggregate: the size of aggregate small than 4.75mm.
 8) Age: Rate of gain of strength is faster to start with and the rate gets reduced with age.
 9) Concrete_compressive_strength: Measurement unit of concrete strength.
+
+
+
