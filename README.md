@@ -27,5 +27,8 @@ In this Dataset several features they are affect the quality of concrete. So we 
 8) Age: Rate of gain of strength is faster to start with and the rate gets reduced with age.
 9) Concrete_compressive_strength: Measurement unit of concrete strength.
 
+## Future Scope -
+
+concrete is made up of three basic components Water, aggregate, and portland cement. We know quality is the most important property for material used in building, if the quality of concrete is less then the build can’t stable but if we use the best quality concrete then the building is stable. analyze the Concrete Compressive Strength dataset and build a Machine Learning model it helps to predict the quality of concrete
 
 
